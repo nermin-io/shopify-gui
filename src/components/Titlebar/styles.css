@@ -1,0 +1,11 @@
+.titlebar {
+  background-color: rgba(0, 122, 92, 1);
+  height: 44px;
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 14px;
+}
